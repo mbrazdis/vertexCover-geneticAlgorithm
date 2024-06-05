@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mikebraz/Desktop/faculta/ACC/vertexCover/graph.h
+vector
+-
+fstream
+-
+iostream
+-
+
+/Users/mikebraz/Desktop/faculta/ACC/vertexCover/vertex_cover_ga.cpp
+vertex_cover_ga.h
+/Users/mikebraz/Desktop/faculta/ACC/vertexCover/vertex_cover_ga.h
+algorithm
+-
+random
+-
+ctime
+-
+cstdlib
+-
+iostream
+-
+
+/Users/mikebraz/Desktop/faculta/ACC/vertexCover/vertex_cover_ga.h
+graph.h
+/Users/mikebraz/Desktop/faculta/ACC/vertexCover/graph.h
+vector
+-
+
